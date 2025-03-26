@@ -1,0 +1,18 @@
+﻿Languages,Languages Levels,Technologies and Frameworks,Technologies and Frameworks Levels,Cloud Platforms,Cloud Platforms Levels,DevOps tools and Repos,DevOps tools and Repos Levels,Automation,Automation Levels,Testing Tools and Frameworks,Testing Tools and Frameworks Levels,Security and Compliance,Security and Compliance Levels
+C++,3,"Visual studio (2019, 2022)",5,Microsoft Azure,5,Azure DevOps ,4,PowerShell Scripting,5,Postman,5,Vulnerability fixes,5
+C#,4,Databricks,5,AWS,3,CI/CD ,5,C# Scripting,4,SoapUI,5,Security fixes,4
+Java,4,Pyspark,4,,,Azure Repos,5,,,Selenium,3,Compliance issues,4
+,,Kafka,4,,,GIT-Hub,5,,,,,,
+,,SQL,4,,,TFS,4,,,,,,
+,,NoSQL,3,,,,,,,,,,
+,,MongoDB,3,,,,,,,,,,
+,,"SSIS - SQL Server Integration Service (2016, 2019)",5,,,,,,,,,,
+,,"Microsoft BizTalk server (2016, 2020)",5,,,,,,,,,,
+,,SSMS (SQL server Management Studio),5,,,,,,,,,,
+,,Delta Lake,4,,,,,,,,,,
+,,Azure Data Factory,5,,,,,,,,,,
+,,Azure Logic Apps,5,,,,,,,,,,
+,,Azure Functions,4,,,,,,,,,,
+,,Azure Service Bus,4,,,,,,,,,,
+,,.Net (SOAP/REST) service,5,,,,,,,,,,
+,,IIS server,5,,,,,,,,,,
